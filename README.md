@@ -3,13 +3,13 @@
 Some basic algorithms on collection type, searching and searching. Also there are solutions to the problems on princeton algorithm course part I. This is solely for my own reference and usage but feel free to use the code(Don't cheat on coursera course, that's stupid). I'll update this repository with lots of other algorithm problems overtime. And improve some already existing ones.
 
 <b>Fundamentals</b>
-<ul>
+<ol>
   <li>ResizingArrayStack.java</li>
   <li>LinkedStack.java</li>
   <li>LinkedQueue.java</li>
   <li>LinkedBag.java</li>
   <li>WeightedQuickUnionUF.java</li>
-</ul>
+</ol>
 
 <b>Sorting</b>
 <ol>
@@ -41,4 +41,4 @@ Some basic algorithms on collection type, searching and searching. Also there ar
   <li>Implement a data type to represent a set of points in a unit square to support efficient nearest neighbor and range search(finding all of the points contained in a query rectangle)</li>
 </ol>
 
-<h2> Please go and take Princeton Algorithms course if you think the problems above are cool.</h2>
+<em> Please go and take Princeton Algorithms course if you think the problems above are cool.</em>
