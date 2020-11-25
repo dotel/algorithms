@@ -25,7 +25,7 @@ Some basic algorithms on collection type, searching and searching. Also there ar
 <b>Searching</b>
 <ol>
   <li>SequentialSearchST.java</li>
-  </li>BinarySearchST.java</li>
+  <li>BinarySearchST.java</li>
   <li>BST.java</li>
   <li>RedBlackBST.java</li>
   <li>SeparateChainingHashST.java</li>
