@@ -1,6 +1,6 @@
 # Algorithms
 
-Some basic algorithms on collection type, searching and searching. Also there are solutions to the problems on princeton algorithm course part I. This is solely for my own reference and usage but feel free to use the code(Don't cheat on coursera course, that's stupid). I'll update this repository with lots of other algorithm problems overtime. And improve some already existing ones.
+Some basic algorithms on collection type, searching and sorting. Also there are solutions to the problems on princeton algorithm course part I. This is solely for my own reference and usage but feel free to use the code(Don't cheat on coursera course, that's stupid). I'll update this repository with lots of other algorithm problems overtime. And improve some already existing ones.
 
 <b>Fundamentals</b>
 <ol>
